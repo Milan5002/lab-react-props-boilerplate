@@ -1,0 +1,16 @@
+/* add your styles here */
+img{
+  width: 90%;
+}
+
+.main{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2,0.8fr);
+  gap: 30px;
+}
+
+.parent{
+  text-align: center;
+  justify-content: center;
+}
